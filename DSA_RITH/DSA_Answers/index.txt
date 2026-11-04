@@ -1,0 +1,78 @@
+==================================================
+      DSA COMPREHENSIVE REPOSITORY (DSA_RITH)
+==================================================
+
+This repository contains structured, topic-wise C implementations 
+of Data Structures, Algorithms, and practical mixed-scenario case studies.
+
+
+--------------------------------------------------
+1. CORE DATA STRUCTURES & ALGORITHMS
+--------------------------------------------------
+
+[01_Arrays] - Array Operations & Structures
+- Files: dynamic_memory_arrays.c, array_menu_operations.c, pth_factor.c, employee_structure.c, count_duplicate_elements.c
+- Focus: Dynamic memory allocation, menu-driven array manipulations, factor calculations, and employee records using structures.
+
+[02_Searching] - Search Techniques
+- Files: linear_search.c, binary_search.c
+- Focus: Linear and Binary Search implementations.
+
+[03_Sorting] - Sorting Algorithms
+- Files: heap_sort.c, sorting_menu_bubble_insertion_selection.c, merge_sort_two_lists.c, quick_sort.c
+- Focus: Heap Sort, Quick Sort, Merge Sort (two lists), and menu-driven Bubble, Insertion, and Selection Sort.
+
+[04_Single_Linked_List] - Singly Linked Lists
+- Files: single_linked_list_all_operations.c, single_linked_list_struct.c, employee_project_lists.c
+- Focus: Comprehensive single linked list operations, structure-based nodes, and employee-project tracker implementations.
+
+[05_Double_Linked_List] - Doubly Linked Lists
+- Files: double_linked_list_operations.c
+- Focus: Two-way traversal, node insertion, and deletion operations.
+
+[06_Circular_Linked_List] - Circular Linked Lists
+- Files: singly_circular_linked_list.c
+- Focus: Singly circular linked list maintenance and navigation.
+
+[07_Stack] - Stack Implementations
+- Files: stack_using_struct.c, char_stack_A_to_Z_reverse.c, stack_using_linked_list.c, stack_using_array.c
+- Focus: Array and Linked List based stacks, structure-based stack design, and A-to-Z character reversal logic.
+
+[08_Queue] - Queue Implementations
+- Files: queue_using_linked_list.c, circular_queue_using_array.c, linear_queue_using_array.c
+- Focus: Linear queues (array), circular queues (array), and linked list dynamic queues.
+
+[09_Binary_Search_Tree] - BST Operations
+- Files: binary_search_tree.c
+- Focus: Core Binary Search Tree insertions, traversals, and lookups.
+
+[10_AVL_Tree] - Balanced Trees
+- Files: avl_tree.c
+- Focus: Self-balancing AVL tree implementation with rotations.
+
+[11_Hashing] - Hash Tables & Chaining
+- Files: hashing_array_size_10.c, hashmap_with_chaining.c
+- Focus: Fixed-size hash tables and hash maps using collision resolution via chaining.
+
+
+--------------------------------------------------
+2. MIXED SCENARIO & CASE STUDY QUESTIONS
+--------------------------------------------------
+
+[12_Mixed_Scenario_Questions] - Practical Application Problems
+- Files:
+  * arrays_mixed_scenario_sensor_readings.c (Sensor data tracking)
+  * searching_mixed_scenario_roll_numbers.c (Roll number lookups)
+  * sorting_mixed_scenario_exam_results.c (Exam score sorting and ranking)
+  * single_linked_list_mixed_scenario_playlist.c (Music playlist manager)
+  * double_linked_list_mixed_scenario_browser_history.c (Browser history tracking)
+  * circular_linked_list_mixed_scenario_round_robin.c (Round Robin scheduling simulator)
+  * stack_mixed_scenario_brackets_and_postfix.c (Balanced parentheses & postfix evaluation)
+  * queue_mixed_scenario_printer_and_reverse.c (Printer queue and reversal utility)
+  * bst_mixed_scenario_library_books.c (Library book catalog management via BST)
+  * avl_mixed_scenario_sorted_insert_comparison.c (AVL sorted insertion analysis)
+  * hashing_mixed_scenario_two_sum_and_frequency.c (Two-sum problem & element frequency analysis)
+  * all_in_one_mixed_scenario_hospital_system.c (Integrated hospital management system)
+
+
+--------------------------------------------------
