@@ -1,0 +1,68 @@
+==================================================
+        DSA PRACTICE REPOSITORY (DSA_VAR)
+==================================================
+
+This repository contains C and C++ implementations of Data 
+Structures and Algorithms practiced day-wise along with module 
+assignments and evaluation tests.
+
+
+--------------------------------------------------
+1. DAY-WISE PRACTICE DIRECTORY
+--------------------------------------------------
+
+[Day 2] - Linked Lists
+- Source Files: linkedlist.c, ll.c, ll_end.c
+- Focus: Singly Linked List core operations (insertion, deletion, traversal).
+
+[Day 3 / 53_day3] - Searching & Basic Lists
+- Source Files: linearsearch.c, binarysearch.c, linkedlist.c
+- Focus: Linear Search, Binary Search, and implementation of Linked Lists.
+
+[Day 4] - Advanced Lists & Stacks
+- Source Files: stack.c, stack-a-z.c, doubly-ll.c, circular-ll.c, sort.c
+- Focus: Stack implementations, Doubly Linked Lists, Circular Linked Lists, and sorting logic.
+
+[Day 5] - Queues & Divide and Conquer
+- Source Files: queue.c, circular-queue.c, merge-sort.c, quick-sort.c
+- Focus: Linear Queue, Circular Queue, Merge Sort, and Quick Sort algorithms.
+
+[Day 6] - Trees, Stacks & OOP (C++)
+- Source Files: bst.c, stack.cpp, singly-linked-list.cpp
+- Focus: Binary Search Trees (C), Object-Oriented Stack and Singly Linked List in C++.
+
+[Day 7] - Balanced Trees & Heaps
+- Source Files: avl-tree.c, heap-sort.c
+- Focus: AVL Tree balancing operations and Heap Sort algorithm.
+
+[Day 8] - Dynamic Data Structures
+- Source Files: stack-ll.c, queue-ll.c
+- Focus: Stacks and Queues implemented dynamically using Linked Lists.
+
+[Day 9] - Hashing & Hash Maps
+- Source Files: hashmap.c, simple-hashing.c
+- Focus: Hash tables, hash functions, and basic collision resolution.
+
+[Day 10] - Integrated Execution Module
+- Source Files: main.c
+- Focus: Driver scripts combining core data structures and algorithms.
+
+
+--------------------------------------------------
+2. ASSIGNMENTS & TEST WORKSPACE
+--------------------------------------------------
+
+[Assignment 1]
+- Files: Q1.c, Q2.c, Q3.c
+- Description: Modular problem solutions covering arrays, strings, and fundamental logic.
+
+[Assignment 2]
+- Files: linearsearch.c, binarysearch.c, linkedlist.c, Q1.c
+- Description: Implementation of searching algorithms and structural list problems.
+
+[Test Workspace]
+- Files: search.c, quicksort.c, mergesort.c, linkedlist.c, ll.c, ll_end.c, queue.c
+- Description: Practical test sandbox covering sorting, searching, queues, and linked lists.
+
+
+----------------------------------------------------------------------------------------
