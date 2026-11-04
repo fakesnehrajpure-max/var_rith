@@ -1,0 +1,55 @@
+==================================================
+        DSA PRACTICE REPOSITORY (DSA10)
+==================================================
+
+This repository contains C and C++ implementations of Data Structures 
+and Algorithms practiced across various days, along with module assignments.
+
+
+--------------------------------------------------
+1. DAY-WISE PRACTICE DIRECTORY
+--------------------------------------------------
+
+[53_day3] - Searching & Lists
+- Source Files: linearsearch.c, binarysearch.c, linkedlist.c
+- Focus: Linear Search, Binary Search, and Linked List foundational programs.
+
+[day4] - Advanced Lists & Stacks
+- Source Files: stack.c, stack-a-z.c, doubly-ll.c, circular-ll.c, sort.c
+- Focus: Stack implementations, A-to-Z character stack, Doubly and Circular Linked Lists, and sorting logic.
+
+[day5] - Queues & Divide and Conquer
+- Source Files: queue.c, circular-queue.c, merge-sort.c, quick-sort.c
+- Focus: Linear and Circular queues, Merge Sort, and Quick Sort algorithms.
+
+[day6] - Trees, Stacks & OOP (C++)
+- Source Files: bst.c, stack.cpp, singly-linked-list.cpp
+- Focus: Binary Search Tree (C), Object-Oriented Stack and Singly Linked List in C++.
+
+[day7] - Balanced Trees & Heaps
+- Source Files: avl-tree.c, heap-sort.c
+- Focus: AVL Tree implementation and Heap Sort algorithm.
+
+[day8] - Dynamic Data Structures
+- Source Files: stack-ll.c, queue-ll.c
+- Focus: Stacks and Queues implemented dynamically using Linked Lists.
+
+[day9] - Hashing & Hash Maps
+- Source Files: hashmap.c, simple-hashing.c
+- Focus: Hash map and simple hashing implementations.
+
+
+--------------------------------------------------
+2. ASSIGNMENTS
+--------------------------------------------------
+
+[assignment_1]
+- Files: Q1.c, Q2.c, Q3.c
+- Description: Structured modular programming problem solutions.
+
+[assignment_2]
+- Files: linearsearch.c, binarysearch.c, linkedlist.c, Q1.c
+- Description: Implementation of searching algorithms and structural list problems.
+
+
+---------------------------------------------------------------------------------------
